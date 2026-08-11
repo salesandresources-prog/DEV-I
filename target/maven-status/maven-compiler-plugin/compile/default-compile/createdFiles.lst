@@ -1,0 +1,16 @@
+com\mycompany\dev\i2\web\JakartaRestConfiguration.class
+com\mycompany\dev\i2\web\UsuariosController.class
+WebhookServlet\WebhookServlet.class
+com\devi\controller\ClienteServlet.class
+CitasController.class
+jpa\entities\Citas.class
+com\devi\controller\LoginServlet.class
+com\devi\dao\Conexion.class
+jpa\entities\Usuarios.class
+com\devi\controller\DashboardServlet.class
+com\devi\dao\UsuarioDAO.class
+com\devi\controller\RegistrarServlet.class
+com\mycompany\dev\i2\web\resources\JakartaEE10Resource.class
+com\devi\model\Cliente.class
+com\devi\dao\ClienteDAO.class
+com\devi\model\Usuario.class
